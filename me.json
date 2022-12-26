@@ -1,0 +1,101 @@
+{
+  "about_me": {
+    "name": "Jhon",
+    "lastname": "Doe",
+    "title": " Systems Engineer | Backend Developer & DevOps | Customer Service ",
+    "email": "john@doe.dev",
+    "url": "https://doe.dev",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl vitae ultricies lacinia, nunc nisl tincidunt elit, vitae lacinia nisl lorem eget nisl. Sed euismod, nisl vitae ultricies lacinia, nunc nisl tincidunt elit, vitae lacinia nisl lorem eget nisl.",
+    "phone": "+0000000000",
+    "socials": {
+      "linkedin": "https://linkedin.com/in/johndoe",
+      "github": "https://github.com",
+      "telegram": "https://twitter.com/johndoe"
+    },
+    "experience": [
+      {
+        "title": "Senior Developer",
+        "business": "Doe Inc.",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl vitae ultricies lacinia, nunc nisl tincidunt elit, vitae lacinia nisl lorem eget nisl. Sed euismod, nisl vitae ultricies lacinia, nunc nisl tincidunt elit, vitae lacinia nisl lorem eget nisl.",
+        "start_date": "2019-01-01",
+        "end_date": "2020-01-01"
+      },
+      {
+        "title": "Junior Developer",
+        "business": "Doe Inc.",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl vitae ultricies lacinia, nunc nisl tincidunt elit, vitae lacinia nisl lorem eget nisl. Sed euismod, nisl vitae ultricies lacinia, nunc nisl tincidunt elit, vitae lacinia nisl lorem eget nisl.",
+        "start_date": "2018-01-01",
+        "end_date": "2019-01-01"
+      },
+      {
+        "title": "Intern",
+        "business": "Doe Inc.",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl vitae ultricies lacinia, nunc nisl tincidunt elit, vitae lacinia nisl lorem eget nisl. Sed euismod, nisl vitae ultricies lacinia, nunc nisl tincidunt elit, vitae lacinia nisl lorem eget nisl.",
+        "start_date": "2017-01-01",
+        "end_date": "2018-01-01"
+      }
+    ],
+    "education": [
+      {
+        "title": "Master Degree",
+        "business": "Doe University",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl vitae ultricies lacinia, nunc nisl tincidunt elit, vitae lacinia nisl lorem eget nisl. Sed euismod, nisl vitae ultricies lacinia, nunc nisl tincidunt elit, vitae lacinia nisl lorem eget nisl.",
+        "start_date": "2015-01-01",
+        "end_date": "2017-01-01"
+      },
+      {
+        "title": "Master Degree",
+        "business": "Doe University",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl vitae ultricies lacinia, nunc nisl tincidunt elit, vitae lacinia nisl lorem eget nisl. Sed euismod, nisl vitae ultricies lacinia, nunc nisl tincidunt elit, vitae lacinia nisl lorem eget nisl.",
+        "start_date": "2015-01-01",
+        "end_date": "2017-01-01"
+      }
+    ],
+    "skills": [
+      {
+        "name": "",
+        "level": ""
+      },
+      {
+        "name": "",
+        "level": ""
+      },
+      {
+        "name": "",
+        "level": ""
+      }
+    ],
+    "languages": [
+      {
+        "name": "",
+        "level": ""
+      },
+      {
+        "name": "",
+        "level": ""
+      },
+      {
+        "name": "",
+        "level": ""
+      }
+    ],
+    "interests": [
+      {
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl vitae ultricies lacinia, nunc nisl tincidunt elit, vitae lacinia nisl lorem eget nisl. Sed euismod, nisl vitae ultricies lacinia, nunc nisl tincidunt elit, vitae lacinia nisl lorem eget nisl."
+      },
+      {
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl vitae ultricies lacinia, nunc nisl tincidunt elit, vitae lacinia nisl lorem eget nisl. Sed euismod, nisl vitae ultricies lacinia, nunc nisl tincidunt elit, vitae lacinia nisl lorem eget nisl."
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Mastering Git",
+        "year": "2019"
+      },
+      {
+        "name": "Mastering Git",
+        "year": "2019"
+      }
+    ]
+  }
+}
